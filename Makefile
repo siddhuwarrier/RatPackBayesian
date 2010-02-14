@@ -1,0 +1,3 @@
+COMPONENT=BayesMoteAppC
+include $(MAKERULES)
+
